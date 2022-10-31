@@ -67,7 +67,7 @@ header h1 {
   display: grid;
   align-items: center;
   justify-content: center;
-  row-gap: 2rem;
+  row-gap: 3.4rem;
  width: 30%;
   background-color: #ecedee;
   border-radius: 25px;
@@ -134,7 +134,7 @@ header h1 {
     border-radius: 25px;
     justify-self: flex-end;
     background-color: var(--black-color);
-    margin-bottom: 3px;
+    margin-bottom: 30px;
 }
 
 .form_submit {
